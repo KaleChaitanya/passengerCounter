@@ -1,0 +1,46 @@
+* {
+  padding: 0 auto;
+  margin: 0 auto;
+  height: auto;
+  justify-items: center;
+}
+.container {
+  width: 50%;
+  height: auto;
+  margin: 5rem auto;
+  padding: 2rem 0;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #0891b2;
+  box-shadow: 10px 10px lightblue;
+}
+.border {
+  border-width: 3px;
+  border-style: solid;
+  border-color: #a5f3fc;
+  border-radius: 1rem;
+}
+.font {
+  font-style: italic;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 1.5;
+  font-family: Arial, sans-serif;
+  color: #ecfeff;
+}
+.btn {
+  width: 20%;
+  height: 15%;
+  font-weight: bolder;
+  border-radius: 0.5rem;
+}
+.btn:hover{
+  cursor: pointer;
+}
+.increment {
+  background-color: #a16207;
+}
+.save{
+  background-color: #4d7c0f;
+}
